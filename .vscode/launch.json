@@ -1,0 +1,68 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "JAVA_9b8a4174"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - func",
+            "request": "launch",
+            "mainClass": "func",
+            "projectName": "JAVA_9b8a4174"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - multi_table",
+            "request": "launch",
+            "mainClass": "multi_table",
+            "projectName": "JAVA_9b8a4174"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - divided",
+            "request": "launch",
+            "mainClass": "divided",
+            "projectName": "JAVA_9b8a4174"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - one",
+            "request": "launch",
+            "mainClass": "one",
+            "projectName": "JAVA_9b8a4174"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - odd_even",
+            "request": "launch",
+            "mainClass": "odd_even",
+            "projectName": "JAVA_9b8a4174"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - one",
+            "request": "launch",
+            "mainClass": "one",
+            "projectName": "ja_b10b5909"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - divided",
+            "request": "launch",
+            "mainClass": "divided",
+            "projectName": "ja_b10b5909"
+        },
+        {},
+        {
+            "type": "node-terminal",
+            "name": "Create JavaScript Debug Terminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
