@@ -35,7 +35,7 @@ public interface array {
         for (int i = 0; i < o.length; i++) {
             o[i]=a.substring(i,i+1);
             System.out.print(o[i]+" ");
-            dfgdlfgk
+            
         }
         c.close();
         
